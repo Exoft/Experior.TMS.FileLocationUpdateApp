@@ -51,11 +51,10 @@ namespace Experior.TMS.FileLocationUpdateApp
             timer.Dispose();
         }
 
-        
 
         private static void UnhandledException(object sender, UnhandledExceptionEventArgs e)
         {
-            _logger.Error(e.ExceptionObject as  Exception, "Unhandled exception occured: ");
+            _logger.Error(e.ExceptionObject as Exception, "Unhandled exception occured: ");
             LogManager.Flush();
         }
 
@@ -85,7 +84,7 @@ namespace Experior.TMS.FileLocationUpdateApp
                 _logger.Warn("LastProcessedRecordId = 0. Please specify correct Id in app.config");
                 return;
             }
-            
+
             _logger.Info("Check for newly added records started...");
 
             int foundRecordsCount = 0;
@@ -116,8 +115,8 @@ namespace Experior.TMS.FileLocationUpdateApp
             {
                 dataContext.Dispose();
             }
-            _logger.Info("Check finished. Found records count: {0}. Succesfully updated: {1}", foundRecordsCount, updatedRecordsCount);
-            
+            _logger.Info("Check finished. Found records count: {0}. Succesfully updated: {1}", foundRecordsCount,
+                updatedRecordsCount);
         }
 
         private static bool TryMoveFileAndUpdateLocation(DocumentFile documentFile)
@@ -130,24 +129,18 @@ namespace Experior.TMS.FileLocationUpdateApp
 
             try
             {
-                var sourceDir = NormalizePath(Path.GetDirectoryName(documentFile.FilePath));
-                var destinationDir = NormalizePath(_appConfig.OutputDirectory);
+                _logger.Info("Prepare to move: Item ID {0}, source path: {1}", documentFile.Id,
+                    documentFile.FilePath);
 
-                if (sourceDir != destinationDir)
+                var outputFileName = String.Join("_", documentFile.TruckmateValue, documentFile.FileDesc,
+                                         documentFile.RowTimestamp.ToString("yyyyMMdd-HHmm")) + ".pdf";
+
+
+                string outputPath;
+                bool result = TryMoveFile(documentFile, outputFileName, out outputPath);
+                if (result)
                 {
-                    _logger.Info("Prepare to move: Item ID {0}, source path: {1}", documentFile.Id,
-                        documentFile.FilePath);
-
-                    var outputFileName = String.Join("_", documentFile.TruckmateValue, documentFile.FileDesc,
-                                             documentFile.RowTimestamp.ToString("yyyyMMdd-HHmm")) + ".pdf";
-
-                    
-                        string outputPath;
-                        bool result = TryMoveFile(documentFile.FilePath, outputFileName, out outputPath);
-                        if (result)
-                        {
-                            documentFile.FilePath = outputPath;
-                        }
+                    documentFile.FilePath = outputPath;
                 }
             }
             catch (Exception ex)
@@ -173,25 +166,43 @@ namespace Experior.TMS.FileLocationUpdateApp
                 .ToUpperInvariant();
         }
 
-        private static bool TryMoveFile(string documentFilePath, string outputFileName, out string outputPath)
+        private static bool TryMoveFile(DocumentFile documentFile, string outputFileName, out string outputPath)
         {
             outputPath = string.Empty;
 
-            if (!File.Exists(documentFilePath))
+            if (!File.Exists(documentFile.FilePath))
             {
-                _logger.Warn("File not found: {0}", documentFilePath);
+                _logger.Warn("File not found: {0}", documentFile.FilePath);
                 return false;
             }
-            string destinationPath = Path.Combine(_appConfig.OutputDirectory, outputFileName);
+            var destinationPath = Path.Combine(_appConfig.OutputDirectory, documentFile.TruckmateValue, outputFileName);
+            string destinationCopyPath = Path.Combine(_appConfig.OutputCopyDirectory, outputFileName);
             try
             {
-                File.Move(documentFilePath, destinationPath);
+                var directoryName = Path.GetDirectoryName(destinationPath);
+                if (!Directory.Exists(directoryName))
+                    Directory.CreateDirectory(directoryName);
+                File.Move(documentFile.FilePath, destinationPath);
                 outputPath = destinationPath;
-                _logger.Info("File moved successfully from {0} to {1}", documentFilePath, destinationPath);
+                _logger.Info("File moved successfully from {0} to {1}", documentFile.FilePath, destinationPath);
             }
             catch (IOException ex)
             {
-                _logger.Error(ex, "Error moving file {0} to {1}", documentFilePath, destinationPath);
+                _logger.Error(ex, "Error moving file {0} to {1}", documentFile.FilePath, destinationPath);
+                return false;
+            }
+
+            try
+            {
+                var directoryName = Path.GetDirectoryName(destinationCopyPath);
+                if (!Directory.Exists(directoryName))
+                    Directory.CreateDirectory(directoryName);
+                File.Copy(destinationPath, destinationCopyPath);
+                _logger.Info("File copied successfully from {0} to {1}", documentFile.FilePath, destinationPath);
+            }
+            catch (IOException ex)
+            {
+                _logger.Error(ex, "Error copying file {0} to {1}", documentFile.FilePath, destinationPath);
                 return false;
             }
             return true;
@@ -207,6 +218,7 @@ namespace Experior.TMS.FileLocationUpdateApp
             if (!int.TryParse(ConfigurationManager.AppSettings["LastProcessedRecordId"], out lastProcessedRecordId))
                 lastProcessedRecordId = 0;
             string outputDir = ConfigurationManager.AppSettings["OutputDirectory"];
+            string outputCopyDir = ConfigurationManager.AppSettings["OutputCopyDirectory"];
             string connectionString = ConfigurationManager.ConnectionStrings["DBConnectionString"].ConnectionString;
 
             return new AppConfiguration
@@ -214,6 +226,7 @@ namespace Experior.TMS.FileLocationUpdateApp
                 Timeout = timeout * 1000,
                 DbConnectionString = connectionString,
                 OutputDirectory = outputDir,
+                OutputCopyDirectory = outputCopyDir,
                 LastProcessedRecordId = lastProcessedRecordId
             };
         }
@@ -225,6 +238,7 @@ namespace Experior.TMS.FileLocationUpdateApp
         public string DbConnectionString { get; set; }
         public int Timeout { get; set; }
         public string OutputDirectory { get; set; }
+        public string OutputCopyDirectory { get; set; }
         public int LastProcessedRecordId { get; set; }
     }
 }

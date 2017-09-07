@@ -14,3 +14,4 @@
    at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
    at System.IO.File.Move(String sourceFileName, String destFileName)
    at Experior.TMS.FileLocationUpdateApp.Program.TryMoveFile(String documentFilePath, String outputFileName, String& outputPath) in d:\Projects\Experior.TMS.FileLocationUpdateApp\Experior.TMS.FileLocationUpdateApp\Program.cs:line 188
+2017/09/07 22:05:38.356 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | LastProcessedRecordId = 0. Please specify correct Id in app.config | 
