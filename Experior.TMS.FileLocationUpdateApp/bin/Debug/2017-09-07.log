@@ -1,0 +1,16 @@
+2017/09/07 16:56:14.259 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32271.pdf | 
+2017/09/07 16:56:18.759 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32847-BOL.pdf | 
+2017/09/07 16:56:38.476 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P33588.pdf | 
+2017/09/07 16:56:38.476 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34239-BOL.pdf | 
+2017/09/07 16:56:38.476 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34893-BOL.pdf | 
+2017/09/07 17:06:26.346 | 11 | Experior.TMS.FileLocationUpdateApp.Program | Error | Error moving file C:\Users\omaykher\Desktop\88.txt to \\file-vm\csattachments\processed\P0034894_BOL_00010226-0000.pdf | System.IO.IOException: The network path was not found.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Experior.TMS.FileLocationUpdateApp.Program.TryMoveFile(String documentFilePath, String outputFileName, String& outputPath) in d:\Projects\Experior.TMS.FileLocationUpdateApp\Experior.TMS.FileLocationUpdateApp\Program.cs:line 188    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.__Error.WinIOError()
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at System.IO.File.Move(String sourceFileName, String destFileName)
+   at Experior.TMS.FileLocationUpdateApp.Program.TryMoveFile(String documentFilePath, String outputFileName, String& outputPath) in d:\Projects\Experior.TMS.FileLocationUpdateApp\Experior.TMS.FileLocationUpdateApp\Program.cs:line 188
