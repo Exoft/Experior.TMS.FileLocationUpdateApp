@@ -1,0 +1,7 @@
+
+.idea
+Bin
+Obj
+packages
+*.user
+*.ini
