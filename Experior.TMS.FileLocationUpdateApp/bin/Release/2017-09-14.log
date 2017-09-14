@@ -1,0 +1,417 @@
+2017/09/14 12:06:07.726 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | LastProcessedRecordId = 0. Please specify correct Id in app.config | 
+2017/09/14 12:16:09.096 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P1123.PDF | 
+2017/09/14 12:16:11.378 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\file-vm\csattachments\processed\P0000724\P0000724_POD_00010103-0000.pdf | 
+2017/09/14 12:16:11.378 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2203.PDF | 
+2017/09/14 12:16:11.396 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0002561-BOL.PDF | 
+2017/09/14 12:16:11.396 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0003182.PDF | 
+2017/09/14 12:16:11.396 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2931POD.PDF | 
+2017/09/14 12:16:11.396 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4258.PDF | 
+2017/09/14 12:16:11.416 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4835.PDF | 
+2017/09/14 12:16:11.416 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\4795.PDF | 
+2017/09/14 12:16:11.416 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P5319POD.PDF | 
+2017/09/14 12:16:11.416 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6109POD.PDF | 
+2017/09/14 12:16:11.432 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6618POD.PDF | 
+2017/09/14 12:16:11.432 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7193 (2).PDF | 
+2017/09/14 12:16:11.432 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7137POD.PDF | 
+2017/09/14 12:16:11.432 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7516POD.PDF | 
+2017/09/14 12:16:11.432 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8501POD.PDF | 
+2017/09/14 12:16:11.447 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8494POD.PDF | 
+2017/09/14 12:16:11.447 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P10412.PDF | 
+2017/09/14 12:16:11.447 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0010773AA-BOL.PDF | 
+2017/09/14 12:16:11.447 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX SOLUTIONS\S370POD.PDF | 
+2017/09/14 12:16:11.463 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P12757EMAIL.pdf | 
+2017/09/14 12:16:11.463 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P13522.pdf | 
+2017/09/14 12:16:11.463 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P14290.pdf | 
+2017/09/14 12:16:11.463 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0014775-BOL.pdf | 
+2017/09/14 12:16:11.478 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P15627.pdf | 
+2017/09/14 12:16:11.478 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P16474.pdf | 
+2017/09/14 12:16:11.478 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17220.pdf | 
+2017/09/14 12:16:11.478 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17963.pdf | 
+2017/09/14 12:16:11.498 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P18517R.pdf | 
+2017/09/14 12:16:11.498 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19319.pdf | 
+2017/09/14 12:16:11.498 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19862-BOL.pdf | 
+2017/09/14 12:16:11.498 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1082POD.pdf | 
+2017/09/14 12:16:11.516 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P21212.pdf | 
+2017/09/14 12:16:11.516 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1119POD.pdf | 
+2017/09/14 12:16:11.516 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22098R.pdf | 
+2017/09/14 12:16:11.532 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22750R.pdf | 
+2017/09/14 12:16:11.532 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P23525AA-BOL.pdf | 
+2017/09/14 12:16:11.532 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P24680.pdf | 
+2017/09/14 12:16:11.547 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25146.pdf | 
+2017/09/14 12:16:11.547 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25584-BOL.pdf | 
+2017/09/14 12:16:11.547 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P26899-BOL.pdf | 
+2017/09/14 12:16:11.547 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P27422LUMPER.PDF | 
+2017/09/14 12:16:11.563 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P28887.pdf | 
+2017/09/14 12:16:11.563 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P29308-BOL.pdf | 
+2017/09/14 12:16:11.563 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0030264.pdf | 
+2017/09/14 12:16:11.563 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P30849-BOL.pdf | 
+2017/09/14 12:16:11.579 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX LOGISTICS\PODS\C516 | 
+2017/09/14 12:16:11.579 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32271.pdf | 
+2017/09/14 12:16:11.579 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32847-BOL.pdf | 
+2017/09/14 12:16:11.579 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P33588.pdf | 
+2017/09/14 12:16:11.599 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34239-BOL.pdf | 
+2017/09/14 12:16:11.599 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34893-BOL.pdf | 
+2017/09/14 12:16:11.599 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Error | Error moving file C:\Users\omaykher\Desktop\Test\P0034894\P0034894_BOL_00010226-0000.txt to \\file-vm\csattachments\processed\P0034894\P0034894_BOL_00010226-0000.pdf | System.IO.IOException: The network path was not found.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at Experior.TMS.FileLocationUpdateApp.Program.TryMoveFile(String sourcePath, String destinationPath, String destinationCopyPath) in d:\Projects\Experior.TMS.FileLocationUpdateApp\Experior.TMS.FileLocationUpdateApp\Program.cs:line 183    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at Experior.TMS.FileLocationUpdateApp.Program.TryMoveFile(String sourcePath, String destinationPath, String destinationCopyPath) in d:\Projects\Experior.TMS.FileLocationUpdateApp\Experior.TMS.FileLocationUpdateApp\Program.cs:line 183
+2017/09/14 12:21:04.546 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P1123.PDF | 
+2017/09/14 12:21:06.830 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\file-vm\csattachments\processed\P0000724\P0000724_POD_00010103-0000.pdf | 
+2017/09/14 12:21:06.830 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2203.PDF | 
+2017/09/14 12:21:06.830 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0002561-BOL.PDF | 
+2017/09/14 12:21:06.849 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0003182.PDF | 
+2017/09/14 12:21:06.849 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2931POD.PDF | 
+2017/09/14 12:21:06.849 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4258.PDF | 
+2017/09/14 12:21:06.849 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4835.PDF | 
+2017/09/14 12:21:06.864 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\4795.PDF | 
+2017/09/14 12:21:06.864 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P5319POD.PDF | 
+2017/09/14 12:21:06.864 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6109POD.PDF | 
+2017/09/14 12:21:06.864 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6618POD.PDF | 
+2017/09/14 12:21:06.880 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7193 (2).PDF | 
+2017/09/14 12:21:06.880 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7137POD.PDF | 
+2017/09/14 12:21:06.880 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7516POD.PDF | 
+2017/09/14 12:21:06.880 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8501POD.PDF | 
+2017/09/14 12:21:06.880 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8494POD.PDF | 
+2017/09/14 12:21:06.896 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P10412.PDF | 
+2017/09/14 12:21:06.896 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0010773AA-BOL.PDF | 
+2017/09/14 12:21:06.896 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX SOLUTIONS\S370POD.PDF | 
+2017/09/14 12:21:06.896 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P12757EMAIL.pdf | 
+2017/09/14 12:21:06.896 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P13522.pdf | 
+2017/09/14 12:21:06.911 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P14290.pdf | 
+2017/09/14 12:21:06.911 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0014775-BOL.pdf | 
+2017/09/14 12:21:06.911 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P15627.pdf | 
+2017/09/14 12:21:06.911 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P16474.pdf | 
+2017/09/14 12:21:06.928 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17220.pdf | 
+2017/09/14 12:21:06.928 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17963.pdf | 
+2017/09/14 12:21:06.928 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P18517R.pdf | 
+2017/09/14 12:21:06.928 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19319.pdf | 
+2017/09/14 12:21:06.928 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19862-BOL.pdf | 
+2017/09/14 12:21:06.949 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1082POD.pdf | 
+2017/09/14 12:21:06.949 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P21212.pdf | 
+2017/09/14 12:21:06.949 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1119POD.pdf | 
+2017/09/14 12:21:06.949 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22098R.pdf | 
+2017/09/14 12:21:06.949 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22750R.pdf | 
+2017/09/14 12:21:06.965 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P23525AA-BOL.pdf | 
+2017/09/14 12:21:06.965 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P24680.pdf | 
+2017/09/14 12:21:06.965 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25146.pdf | 
+2017/09/14 12:21:06.965 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25584-BOL.pdf | 
+2017/09/14 12:21:06.965 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P26899-BOL.pdf | 
+2017/09/14 12:21:06.980 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P27422LUMPER.PDF | 
+2017/09/14 12:21:06.980 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P28887.pdf | 
+2017/09/14 12:21:06.980 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P29308-BOL.pdf | 
+2017/09/14 12:21:06.980 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0030264.pdf | 
+2017/09/14 12:21:06.980 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P30849-BOL.pdf | 
+2017/09/14 12:21:06.996 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX LOGISTICS\PODS\C516 | 
+2017/09/14 12:21:06.996 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32271.pdf | 
+2017/09/14 12:21:06.996 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32847-BOL.pdf | 
+2017/09/14 12:21:07.012 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P33588.pdf | 
+2017/09/14 12:21:07.012 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34239-BOL.pdf | 
+2017/09/14 12:21:07.012 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34893-BOL.pdf | 
+2017/09/14 12:21:07.028 | 7 | Experior.TMS.FileLocationUpdateApp.Program | Error | Error moving file C:\Users\omaykher\Desktop\Test\P0034894\P0034894_BOL_00010226-0000.txt to \\file-vm\csattachments\processed\P0034894\P0034894_BOL_00010226-0000.pdf | System.IO.IOException: The network path was not found.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at Experior.TMS.FileLocationUpdateApp.Program.TryMoveFile(String sourcePath, String destinationPath, String destinationCopyPath) in d:\Projects\Experior.TMS.FileLocationUpdateApp\Experior.TMS.FileLocationUpdateApp\Program.cs:line 183    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at Experior.TMS.FileLocationUpdateApp.Program.TryMoveFile(String sourcePath, String destinationPath, String destinationCopyPath) in d:\Projects\Experior.TMS.FileLocationUpdateApp\Experior.TMS.FileLocationUpdateApp\Program.cs:line 183
+2017/09/14 12:24:05.479 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P1123.PDF | 
+2017/09/14 12:24:12.660 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\file-vm\csattachments\processed\P0000724\P0000724_POD_00010103-0000.pdf | 
+2017/09/14 12:24:29.847 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2203.PDF | 
+2017/09/14 12:24:38.535 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0002561-BOL.PDF | 
+2017/09/14 12:24:39.384 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0003182.PDF | 
+2017/09/14 12:24:40.069 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2931POD.PDF | 
+2017/09/14 12:24:40.740 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4258.PDF | 
+2017/09/14 12:24:57.219 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4835.PDF | 
+2017/09/14 12:24:57.852 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\4795.PDF | 
+2017/09/14 12:24:58.398 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P5319POD.PDF | 
+2017/09/14 12:25:06.001 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6109POD.PDF | 
+2017/09/14 12:25:06.624 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6618POD.PDF | 
+2017/09/14 12:25:07.805 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7193 (2).PDF | 
+2017/09/14 12:25:08.792 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7137POD.PDF | 
+2017/09/14 12:25:09.909 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7516POD.PDF | 
+2017/09/14 12:25:10.911 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8501POD.PDF | 
+2017/09/14 12:25:11.666 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8494POD.PDF | 
+2017/09/14 12:25:12.299 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P10412.PDF | 
+2017/09/14 12:25:12.984 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0010773AA-BOL.PDF | 
+2017/09/14 12:25:13.670 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX SOLUTIONS\S370POD.PDF | 
+2017/09/14 12:25:15.073 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P12757EMAIL.pdf | 
+2017/09/14 12:25:15.991 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P13522.pdf | 
+2017/09/14 12:25:16.545 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P14290.pdf | 
+2017/09/14 12:25:17.144 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0014775-BOL.pdf | 
+2017/09/14 12:25:17.363 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P15627.pdf | 
+2017/09/14 12:25:17.510 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P16474.pdf | 
+2017/09/14 12:25:17.710 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17220.pdf | 
+2017/09/14 12:25:17.910 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17963.pdf | 
+2017/09/14 12:25:18.095 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P18517R.pdf | 
+2017/09/14 12:25:18.296 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19319.pdf | 
+2017/09/14 12:25:18.465 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19862-BOL.pdf | 
+2017/09/14 12:31:53.944 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P1123.PDF | 
+2017/09/14 12:31:56.234 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\file-vm\csattachments\processed\P0000724\P0000724_POD_00010103-0000.pdf | 
+2017/09/14 12:31:56.234 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2203.PDF | 
+2017/09/14 12:31:56.249 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0002561-BOL.PDF | 
+2017/09/14 12:31:56.249 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0003182.PDF | 
+2017/09/14 12:31:56.249 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2931POD.PDF | 
+2017/09/14 12:31:56.265 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4258.PDF | 
+2017/09/14 12:31:56.265 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4835.PDF | 
+2017/09/14 12:31:56.280 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\4795.PDF | 
+2017/09/14 12:31:56.280 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P5319POD.PDF | 
+2017/09/14 12:31:56.297 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6109POD.PDF | 
+2017/09/14 12:31:56.297 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6618POD.PDF | 
+2017/09/14 12:31:56.297 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7193 (2).PDF | 
+2017/09/14 12:31:56.297 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7137POD.PDF | 
+2017/09/14 12:31:56.318 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7516POD.PDF | 
+2017/09/14 12:31:56.318 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8501POD.PDF | 
+2017/09/14 12:31:56.334 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8494POD.PDF | 
+2017/09/14 12:31:56.334 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P10412.PDF | 
+2017/09/14 12:31:56.349 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0010773AA-BOL.PDF | 
+2017/09/14 12:31:56.349 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX SOLUTIONS\S370POD.PDF | 
+2017/09/14 12:31:56.365 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P12757EMAIL.pdf | 
+2017/09/14 12:31:56.365 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P13522.pdf | 
+2017/09/14 12:31:56.381 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P14290.pdf | 
+2017/09/14 12:31:56.381 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0014775-BOL.pdf | 
+2017/09/14 12:31:56.401 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P15627.pdf | 
+2017/09/14 12:31:56.401 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P16474.pdf | 
+2017/09/14 12:31:56.401 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17220.pdf | 
+2017/09/14 12:31:56.418 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17963.pdf | 
+2017/09/14 12:31:56.418 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P18517R.pdf | 
+2017/09/14 12:31:56.434 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19319.pdf | 
+2017/09/14 12:31:56.434 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19862-BOL.pdf | 
+2017/09/14 12:31:56.450 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1082POD.pdf | 
+2017/09/14 12:31:56.465 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P21212.pdf | 
+2017/09/14 12:31:56.481 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1119POD.pdf | 
+2017/09/14 12:31:56.481 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22098R.pdf | 
+2017/09/14 12:31:56.503 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22750R.pdf | 
+2017/09/14 12:31:56.503 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P23525AA-BOL.pdf | 
+2017/09/14 12:31:56.519 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P24680.pdf | 
+2017/09/14 12:31:56.534 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25146.pdf | 
+2017/09/14 12:31:56.534 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25584-BOL.pdf | 
+2017/09/14 12:31:56.550 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P26899-BOL.pdf | 
+2017/09/14 12:31:56.566 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P27422LUMPER.PDF | 
+2017/09/14 12:31:56.566 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P28887.pdf | 
+2017/09/14 12:31:56.581 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P29308-BOL.pdf | 
+2017/09/14 12:31:56.597 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0030264.pdf | 
+2017/09/14 12:31:56.597 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P30849-BOL.pdf | 
+2017/09/14 12:31:56.597 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX LOGISTICS\PODS\C516 | 
+2017/09/14 12:31:56.619 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32271.pdf | 
+2017/09/14 12:31:56.619 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32847-BOL.pdf | 
+2017/09/14 12:31:56.635 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P33588.pdf | 
+2017/09/14 12:31:56.650 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34239-BOL.pdf | 
+2017/09/14 12:31:56.650 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34893-BOL.pdf | 
+2017/09/14 12:31:56.666 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: C:\Users\omaykher\Desktop\Test1\P0034894\P0034894_BOL_00010226-0000.pdf | 
+2017/09/14 12:33:34.465 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P1123.PDF | 
+2017/09/14 12:35:29.548 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P1123.PDF | 
+2017/09/14 12:35:31.840 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\file-vm\csattachments\processed\P0000724\P0000724_POD_00010103-0000.pdf | 
+2017/09/14 12:35:31.840 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2203.PDF | 
+2017/09/14 12:35:31.840 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0002561-BOL.PDF | 
+2017/09/14 12:35:31.862 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0003182.PDF | 
+2017/09/14 12:35:31.862 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2931POD.PDF | 
+2017/09/14 12:35:31.862 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4258.PDF | 
+2017/09/14 12:35:31.877 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4835.PDF | 
+2017/09/14 12:35:31.877 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\4795.PDF | 
+2017/09/14 12:35:31.893 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P5319POD.PDF | 
+2017/09/14 12:35:31.893 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6109POD.PDF | 
+2017/09/14 12:35:31.909 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6618POD.PDF | 
+2017/09/14 12:35:31.909 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7193 (2).PDF | 
+2017/09/14 12:35:31.909 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7137POD.PDF | 
+2017/09/14 12:35:31.924 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7516POD.PDF | 
+2017/09/14 12:35:31.924 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8501POD.PDF | 
+2017/09/14 12:35:31.940 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8494POD.PDF | 
+2017/09/14 12:35:31.940 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P10412.PDF | 
+2017/09/14 12:35:31.961 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0010773AA-BOL.PDF | 
+2017/09/14 12:35:31.961 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX SOLUTIONS\S370POD.PDF | 
+2017/09/14 12:35:31.961 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P12757EMAIL.pdf | 
+2017/09/14 12:35:31.978 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P13522.pdf | 
+2017/09/14 12:35:31.978 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P14290.pdf | 
+2017/09/14 12:35:31.993 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0014775-BOL.pdf | 
+2017/09/14 12:35:31.993 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P15627.pdf | 
+2017/09/14 12:35:32.009 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P16474.pdf | 
+2017/09/14 12:35:32.009 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17220.pdf | 
+2017/09/14 12:35:32.009 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17963.pdf | 
+2017/09/14 12:35:32.025 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P18517R.pdf | 
+2017/09/14 12:35:32.040 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19319.pdf | 
+2017/09/14 12:35:32.040 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19862-BOL.pdf | 
+2017/09/14 12:35:32.060 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1082POD.pdf | 
+2017/09/14 12:35:32.060 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P21212.pdf | 
+2017/09/14 12:35:32.060 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1119POD.pdf | 
+2017/09/14 12:35:32.078 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22098R.pdf | 
+2017/09/14 12:35:32.094 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22750R.pdf | 
+2017/09/14 12:35:32.094 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P23525AA-BOL.pdf | 
+2017/09/14 12:35:32.109 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P24680.pdf | 
+2017/09/14 12:35:32.109 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25146.pdf | 
+2017/09/14 12:35:32.125 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25584-BOL.pdf | 
+2017/09/14 12:35:32.125 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P26899-BOL.pdf | 
+2017/09/14 12:35:32.141 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P27422LUMPER.PDF | 
+2017/09/14 12:35:32.141 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P28887.pdf | 
+2017/09/14 12:35:32.162 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P29308-BOL.pdf | 
+2017/09/14 12:35:32.162 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0030264.pdf | 
+2017/09/14 12:35:32.178 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P30849-BOL.pdf | 
+2017/09/14 12:35:32.178 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX LOGISTICS\PODS\C516 | 
+2017/09/14 12:35:32.194 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32271.pdf | 
+2017/09/14 12:35:32.194 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32847-BOL.pdf | 
+2017/09/14 12:35:32.210 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P33588.pdf | 
+2017/09/14 12:35:32.225 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34239-BOL.pdf | 
+2017/09/14 12:35:32.225 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34893-BOL.pdf | 
+2017/09/14 12:35:32.241 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: C:\Users\omaykher\Desktop\Test\P0034894\P0034894_BOL_00010226-0000.pdf | 
+2017/09/14 12:36:21.293 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P1123.PDF | 
+2017/09/14 12:36:23.592 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\file-vm\csattachments\processed\P0000724\P0000724_POD_00010103-0000.pdf | 
+2017/09/14 12:36:23.592 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2203.PDF | 
+2017/09/14 12:36:23.609 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0002561-BOL.PDF | 
+2017/09/14 12:36:23.609 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0003182.PDF | 
+2017/09/14 12:36:23.609 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P2931POD.PDF | 
+2017/09/14 12:36:23.609 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4258.PDF | 
+2017/09/14 12:36:23.630 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P4835.PDF | 
+2017/09/14 12:36:23.630 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\4795.PDF | 
+2017/09/14 12:36:23.645 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P5319POD.PDF | 
+2017/09/14 12:36:23.645 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6109POD.PDF | 
+2017/09/14 12:36:23.645 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P6618POD.PDF | 
+2017/09/14 12:36:23.661 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7193 (2).PDF | 
+2017/09/14 12:36:23.661 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7137POD.PDF | 
+2017/09/14 12:36:23.677 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P7516POD.PDF | 
+2017/09/14 12:36:23.677 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8501POD.PDF | 
+2017/09/14 12:36:23.677 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P8494POD.PDF | 
+2017/09/14 12:36:23.692 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P10412.PDF | 
+2017/09/14 12:36:23.692 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0010773AA-BOL.PDF | 
+2017/09/14 12:36:23.710 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX SOLUTIONS\S370POD.PDF | 
+2017/09/14 12:36:23.710 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P12757EMAIL.pdf | 
+2017/09/14 12:36:23.710 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P13522.pdf | 
+2017/09/14 12:36:23.710 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P14290.pdf | 
+2017/09/14 12:36:23.730 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0014775-BOL.pdf | 
+2017/09/14 12:36:23.730 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P15627.pdf | 
+2017/09/14 12:36:23.745 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P16474.pdf | 
+2017/09/14 12:36:23.745 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17220.pdf | 
+2017/09/14 12:36:23.745 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P17963.pdf | 
+2017/09/14 12:36:23.761 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P18517R.pdf | 
+2017/09/14 12:36:23.761 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19319.pdf | 
+2017/09/14 12:36:23.777 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P19862-BOL.pdf | 
+2017/09/14 12:36:23.777 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1082POD.pdf | 
+2017/09/14 12:36:23.792 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P21212.pdf | 
+2017/09/14 12:36:23.808 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1119POD.pdf | 
+2017/09/14 12:36:23.815 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22098R.pdf | 
+2017/09/14 12:36:23.815 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P22750R.pdf | 
+2017/09/14 12:36:23.830 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P23525AA-BOL.pdf | 
+2017/09/14 12:36:23.830 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P24680.pdf | 
+2017/09/14 12:36:23.846 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25146.pdf | 
+2017/09/14 12:36:23.846 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P25584-BOL.pdf | 
+2017/09/14 12:36:23.846 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P26899-BOL.pdf | 
+2017/09/14 12:36:23.862 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P27422LUMPER.PDF | 
+2017/09/14 12:36:23.862 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P28887.pdf | 
+2017/09/14 12:36:23.877 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P29308-BOL.pdf | 
+2017/09/14 12:36:23.877 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P0030264.pdf | 
+2017/09/14 12:36:23.893 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P30849-BOL.pdf | 
+2017/09/14 12:36:23.910 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\POLMAX LOGISTICS\PODS\C516 | 
+2017/09/14 12:36:23.910 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32271.pdf | 
+2017/09/14 12:36:23.910 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P32847-BOL.pdf | 
+2017/09/14 12:36:23.931 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P33588.pdf | 
+2017/09/14 12:36:23.931 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34239-BOL.pdf | 
+2017/09/14 12:36:23.946 | 1 | Experior.TMS.FileLocationUpdateApp.Program | Warn | File not found: T:\P34893-BOL.pdf | 
+2017/09/14 14:36:47.930 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P1123.PDF | 
+2017/09/14 14:37:07.841 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: \\file-vm\csattachments\processed\P0000724\P0000724_POD_00010103-0000.pdf | 
+2017/09/14 14:37:07.841 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P2203.PDF | 
+2017/09/14 14:37:07.863 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0002561-BOL.PDF | 
+2017/09/14 14:37:07.863 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0003182.PDF | 
+2017/09/14 14:37:07.879 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P2931POD.PDF | 
+2017/09/14 14:37:07.895 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P4258.PDF | 
+2017/09/14 14:37:07.910 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P4835.PDF | 
+2017/09/14 14:37:07.910 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\4795.PDF | 
+2017/09/14 14:37:07.926 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P5319POD.PDF | 
+2017/09/14 14:37:07.941 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P6109POD.PDF | 
+2017/09/14 14:37:07.958 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P6618POD.PDF | 
+2017/09/14 14:37:07.958 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P7193 (2).PDF | 
+2017/09/14 14:37:07.979 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P7137POD.PDF | 
+2017/09/14 14:37:07.979 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P7516POD.PDF | 
+2017/09/14 14:37:08.002 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P8501POD.PDF | 
+2017/09/14 14:37:08.014 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P8494POD.PDF | 
+2017/09/14 14:37:08.014 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P10412.PDF | 
+2017/09/14 14:37:08.038 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0010773AA-BOL.PDF | 
+2017/09/14 14:37:08.038 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\POLMAX SOLUTIONS\S370POD.PDF | 
+2017/09/14 14:37:08.063 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P12757EMAIL.pdf | 
+2017/09/14 14:37:08.079 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P13522.pdf | 
+2017/09/14 14:37:08.095 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P14290.pdf | 
+2017/09/14 14:37:08.095 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0014775-BOL.pdf | 
+2017/09/14 14:37:08.111 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P15627.pdf | 
+2017/09/14 14:37:08.111 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P16474.pdf | 
+2017/09/14 14:37:08.111 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P17220.pdf | 
+2017/09/14 14:37:08.126 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P17963.pdf | 
+2017/09/14 14:37:08.126 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P18517R.pdf | 
+2017/09/14 14:37:08.142 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P19319.pdf | 
+2017/09/14 14:37:08.142 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P19862-BOL.pdf | 
+2017/09/14 14:37:08.142 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1082POD.pdf | 
+2017/09/14 14:37:08.160 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P21212.pdf | 
+2017/09/14 14:37:08.160 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1119POD.pdf | 
+2017/09/14 14:37:08.160 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P22098R.pdf | 
+2017/09/14 14:37:08.180 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P22750R.pdf | 
+2017/09/14 14:37:08.180 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P23525AA-BOL.pdf | 
+2017/09/14 14:37:08.180 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P24680.pdf | 
+2017/09/14 14:37:08.195 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P25146.pdf | 
+2017/09/14 14:37:08.195 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P25584-BOL.pdf | 
+2017/09/14 14:37:08.211 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P26899-BOL.pdf | 
+2017/09/14 14:37:08.211 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P27422LUMPER.PDF | 
+2017/09/14 14:37:08.227 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P28887.pdf | 
+2017/09/14 14:37:08.227 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P29308-BOL.pdf | 
+2017/09/14 14:37:08.242 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0030264.pdf | 
+2017/09/14 14:37:08.242 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P30849-BOL.pdf | 
+2017/09/14 14:37:08.261 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\POLMAX LOGISTICS\PODS\C516 | 
+2017/09/14 14:37:08.264 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P32271.pdf | 
+2017/09/14 14:37:08.264 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P32847-BOL.pdf | 
+2017/09/14 14:37:08.280 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P33588.pdf | 
+2017/09/14 14:37:08.280 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P34239-BOL.pdf | 
+2017/09/14 14:37:08.296 | 1 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P34893-BOL.pdf | 
+2017/09/14 14:40:21.917 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P1123.PDF | 
+2017/09/14 14:40:24.198 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: \\file-vm\csattachments\processed\P0000724\P0000724_POD_00010103-0000.pdf | 
+2017/09/14 14:40:24.215 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P2203.PDF | 
+2017/09/14 14:40:24.220 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0002561-BOL.PDF | 
+2017/09/14 14:40:24.235 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0003182.PDF | 
+2017/09/14 14:40:24.251 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P2931POD.PDF | 
+2017/09/14 14:40:24.267 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P4258.PDF | 
+2017/09/14 14:40:24.267 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P4835.PDF | 
+2017/09/14 14:40:24.267 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\4795.PDF | 
+2017/09/14 14:40:24.282 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P5319POD.PDF | 
+2017/09/14 14:40:24.282 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P6109POD.PDF | 
+2017/09/14 14:40:24.298 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P6618POD.PDF | 
+2017/09/14 14:40:24.298 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P7193 (2).PDF | 
+2017/09/14 14:40:24.316 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P7137POD.PDF | 
+2017/09/14 14:40:24.316 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P7516POD.PDF | 
+2017/09/14 14:40:24.316 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P8501POD.PDF | 
+2017/09/14 14:40:24.336 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P8494POD.PDF | 
+2017/09/14 14:40:24.336 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P10412.PDF | 
+2017/09/14 14:40:24.351 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0010773AA-BOL.PDF | 
+2017/09/14 14:40:24.351 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\POLMAX SOLUTIONS\S370POD.PDF | 
+2017/09/14 14:40:24.351 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P12757EMAIL.pdf | 
+2017/09/14 14:40:24.367 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P13522.pdf | 
+2017/09/14 14:40:24.367 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P14290.pdf | 
+2017/09/14 14:40:24.383 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0014775-BOL.pdf | 
+2017/09/14 14:40:24.383 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P15627.pdf | 
+2017/09/14 14:40:24.398 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P16474.pdf | 
+2017/09/14 14:40:24.398 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P17220.pdf | 
+2017/09/14 14:40:24.398 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P17963.pdf | 
+2017/09/14 14:40:24.418 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P18517R.pdf | 
+2017/09/14 14:40:24.420 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P19319.pdf | 
+2017/09/14 14:40:24.420 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P19862-BOL.pdf | 
+2017/09/14 14:40:24.436 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1082POD.pdf | 
+2017/09/14 14:40:24.436 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P21212.pdf | 
+2017/09/14 14:40:24.452 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: \\FILE-VM\TempTM Confirmations\POLMAX SOLUTIONS\S1119POD.pdf | 
+2017/09/14 14:40:24.452 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P22098R.pdf | 
+2017/09/14 14:40:24.467 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P22750R.pdf | 
+2017/09/14 14:40:24.467 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P23525AA-BOL.pdf | 
+2017/09/14 14:40:24.483 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P24680.pdf | 
+2017/09/14 14:40:24.499 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P25146.pdf | 
+2017/09/14 14:40:24.517 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P25584-BOL.pdf | 
+2017/09/14 14:40:24.517 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P26899-BOL.pdf | 
+2017/09/14 14:40:24.539 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P27422LUMPER.PDF | 
+2017/09/14 14:40:24.539 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P28887.pdf | 
+2017/09/14 14:40:24.554 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P29308-BOL.pdf | 
+2017/09/14 14:40:24.554 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P0030264.pdf | 
+2017/09/14 14:40:24.570 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P30849-BOL.pdf | 
+2017/09/14 14:40:24.586 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\POLMAX LOGISTICS\PODS\C516 | 
+2017/09/14 14:40:24.601 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P32271.pdf | 
+2017/09/14 14:40:24.624 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P32847-BOL.pdf | 
+2017/09/14 14:40:24.624 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P33588.pdf | 
+2017/09/14 14:40:24.639 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P34239-BOL.pdf | 
+2017/09/14 14:40:24.655 | 15 | Experior.TMS.FileLocationUpdateApp.DataUpdate.FileSystemTools | Warn | File not found: T:\P34893-BOL.pdf | 

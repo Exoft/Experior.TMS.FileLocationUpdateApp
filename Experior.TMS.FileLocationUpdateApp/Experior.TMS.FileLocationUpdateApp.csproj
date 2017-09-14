@@ -63,6 +63,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationDataContext.cs" />
+    <Compile Include="Configuration\AppConfiguration.cs" />
+    <Compile Include="Configuration\ConfigurationManager.cs" />
+    <Compile Include="Configuration\ConfigurationSerializer.cs" />
+    <Compile Include="DataUpdate\DatabaseTools.cs" />
+    <Compile Include="DataUpdate\FileSystemTools.cs" />
+    <Compile Include="DataUpdate\Worker.cs" />
     <Compile Include="Entities\DocumentFile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
