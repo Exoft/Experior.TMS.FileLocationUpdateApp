@@ -24,7 +24,7 @@ namespace Experior.TMS.FileLocationUpdateApp.Configuration
         public void UpdatePositionMarkerInConfig()
         {
             System.Configuration.Configuration config = System.Configuration.ConfigurationManager.OpenExeConfiguration(Assembly.GetExecutingAssembly().Location);
-            config.AppSettings.Settings["LastProcessedRecordId"].Value = ApplicationConfiguration.ToString();
+            config.AppSettings.Settings["LastProcessedRecordId"].Value = ApplicationConfiguration.LastProcessedRecordId.ToString();
             config.Save(ConfigurationSaveMode.Modified);
             System.Configuration.ConfigurationManager.RefreshSection("appSettings");
         }

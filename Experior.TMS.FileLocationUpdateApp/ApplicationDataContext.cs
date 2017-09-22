@@ -14,6 +14,7 @@ namespace Experior.TMS.FileLocationUpdateApp
         {}
 
         public DbSet<DocumentFile> DocumentFiles { get; set; }
+        public DbSet<DocumentFilesUsersAudit> DocumentFilesAudit { get; set; }
         
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

@@ -42,7 +42,7 @@ namespace Experior.TMS.FileLocationUpdateApp.DataUpdate
                 var directoryName = Path.GetDirectoryName(destinationCopyPath);
                 if (!Directory.Exists(directoryName))
                     Directory.CreateDirectory(directoryName);
-                File.Copy(destinationPath, destinationCopyPath);
+                File.Copy(destinationPath, destinationCopyPath, true);
                 _logger.Info("File copied successfully from {0} to {1}", destinationPath, destinationCopyPath);
             }
             catch (IOException ex)

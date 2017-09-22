@@ -70,6 +70,7 @@
     <Compile Include="DataUpdate\FileSystemTools.cs" />
     <Compile Include="DataUpdate\Worker.cs" />
     <Compile Include="Entities\DocumentFile.cs" />
+    <Compile Include="Entities\DocumentFilesUsersAudit.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

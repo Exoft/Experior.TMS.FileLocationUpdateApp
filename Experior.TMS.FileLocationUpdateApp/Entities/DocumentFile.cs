@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Experior.TMS.FileLocationUpdateApp.Entities
 {
-        [Table("TMWIN.DOCUMENT_FILES")]
+    [Table("TMWIN.DOCUMENT_FILES")]
     public class DocumentFile
     {
         [Column("ID")]

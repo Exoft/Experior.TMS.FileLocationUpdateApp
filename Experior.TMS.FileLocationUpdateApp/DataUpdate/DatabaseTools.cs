@@ -4,6 +4,7 @@ using System.Linq;
 using Experior.TMS.FileLocationUpdateApp.Configuration;
 using Experior.TMS.FileLocationUpdateApp.Entities;
 using NLog;
+using NLog.Fluent;
 
 namespace Experior.TMS.FileLocationUpdateApp.DataUpdate
 {
@@ -24,21 +25,11 @@ namespace Experior.TMS.FileLocationUpdateApp.DataUpdate
         {
             using (var dataContext = ApplicationDataContext.Create(_appConfig.DbConnectionString))
             {
+                DetectRecordsWithCHangedPaths(dataContext);
+                
                 var previouslyLockedRecords = GetAllLockedAndNotProcessedRecords(dataContext);
                 var notProcessedPreviouslyRecords = GetAllNotProcessedSuccessfullyRecords(dataContext);
                 var newlyAddedRecords = GetNewlyAddedRecords(dataContext);
-
-//                _logger.Info("Starting processing previously locked records...");
-//                var values = ProcessRecordsSet(dataContext, previouslyLockedRecords);
-//                _logger.Info("Processing locked records finished. Records found: {0}; Records processed: {1}", values.Item1, values.Item2);
-//                
-//                _logger.Info("Strarting processing records, failed on previous run...");
-//                values = ProcessRecordsSet(dataContext, notProcessedPreviouslyRecords);
-//                _logger.Info("Processing records, failed on previous run finished. Records found: {0}; Records processed: {1}", values.Item1, values.Item2);
-//                
-//                _logger.Info("Starting processing new records...");
-//                values = ProcessRecordsSet(dataContext, newlyAddedRecords);
-//                _logger.Info("Processing new records finished. Records found: {0}; Records processed: {1}", values.Item1, values.Item2);
                 
                 _logger.Info("Starting processing previously locked records...");
                 ProcessRecordsSet(dataContext, previouslyLockedRecords);
@@ -51,10 +42,37 @@ namespace Experior.TMS.FileLocationUpdateApp.DataUpdate
                 _logger.Info("Starting processing new records...");
                  ProcessRecordsSet(dataContext, newlyAddedRecords);
                 _logger.Info("Processing new records finished.");
+
+                try
+                {
+                    dataContext.DocumentFilesAudit.RemoveRange(dataContext.DocumentFilesAudit);
+                    dataContext.SaveChanges();
+                }
+                catch (Exception e)
+                {
+                    _logger.Error(e, "Error while clearing audit data.");
+                }
+                
             }
             ConfigurationManager.Instance.SaveProcessedIds();
         }
-        
+
+        private void DetectRecordsWithCHangedPaths(ApplicationDataContext dataContext)
+        {
+            var processedMetadata = _appConfig.ProcessedIds.Where(x => x.Processed).ToArray();
+            
+            if (processedMetadata.Any())
+            {
+                foreach (var recordMetadata in processedMetadata)
+                {
+                    if (dataContext.DocumentFilesAudit.Any(x => x.DocumentFilesId == recordMetadata.Id))
+                    {
+                        recordMetadata.Processed = false;
+                    }
+                }
+            }
+        }
+
         private string GetSafeFilename(string filename)
         {
             return string.Join("_", filename.Split(Path.GetInvalidFileNameChars()));
@@ -69,9 +87,11 @@ namespace Experior.TMS.FileLocationUpdateApp.DataUpdate
             {
                 foundRecordsCount++;
                 string sourcePath = documentFile.FilePath;
+                
+                var auditEntry = dataContext.DocumentFilesAudit.Where(x => x.DocumentFilesId == documentFile.Id)
+                    .OrderByDescending(x => x.Id).FirstOrDefault();
 
-                var outputFileName = GetSafeFilename(String.Join("_", documentFile.TruckmateValue, documentFile.FileDesc,
-                                                         documentFile.RowTimestamp.ToString("yyyyMMdd-HHmm")) + ".pdf");
+                var outputFileName = GenerateFileName(dataContext, documentFile, auditEntry);
 
                 var destinationPath = Path.Combine(_appConfig.OutputDirectory, GetSafeFilename(documentFile.TruckmateValue), outputFileName);
                 string destinationCopyPath = Path.Combine(_appConfig.OutputCopyDirectory, outputFileName);
@@ -117,6 +137,23 @@ namespace Experior.TMS.FileLocationUpdateApp.DataUpdate
                 }
             }
             //return (foundRecordsCount, processedRecordsCount);
+        }
+
+        private string GenerateFileName(ApplicationDataContext dataContext, DocumentFile documentFile, DocumentFilesUsersAudit auditEntry)
+        {
+            
+            
+            var outputFileName = GetSafeFilename(String.Join("_", documentFile.TruckmateValue, documentFile.FileDesc,
+                                                     documentFile.RowTimestamp.ToString("yyyyMMdd-HHmm")));
+
+            if (auditEntry != null)
+            {
+                outputFileName = outputFileName + "_" + auditEntry.UserName;
+            }
+
+            outputFileName = outputFileName + ".pdf";
+            
+            return outputFileName;
         }
 
         private IQueryable<DocumentFile> GetAllNotProcessedSuccessfullyRecords(ApplicationDataContext dataContext)
